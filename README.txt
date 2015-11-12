@@ -17,7 +17,7 @@ The Views in CiviCRM Dashlets module allows creation of customizable dashlets
 with integrated Views displays.
 
   * For a full description of the module, visit the project page:
-    - https://www.drupal.org/sandbox/brandonferrell/2389543
+    - https://www.drupal.org/project/civicrm_views_dashlets
 
   * To submit bug reports and feature suggestions, or to track changes:
     - https://www.drupal.org/project/issues/2389543?categories=1

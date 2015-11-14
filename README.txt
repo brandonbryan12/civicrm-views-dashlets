@@ -61,7 +61,7 @@ FAQ
 MAINTAINERS
 -----------
 Current maintainers:
- * Brandon Ferrell (brandonbferrell) https://drupal.org/user/2930039
+ * Brandon Ferrell (brandonferrell) https://drupal.org/user/2996205
  * Mark Hanna (markusa) https://www.drupal.org/user/142798
 
 This project has been sponsored by:

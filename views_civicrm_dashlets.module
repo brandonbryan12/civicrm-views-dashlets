@@ -360,7 +360,7 @@ function _views_civicrm_dashlets_menu_delivery_callback($page_callback_result) {
   $content = drupal_render($page_callback_result);
   print $content;
 
-  // Add CSS ans JS files, add some markup.
+  // Add CSS and JS files, add some markup.
   $html = '<html><head><title></title>' . drupal_get_css() . drupal_get_js() . '</head><body class="dashlet-ajax-load">' . $content . '</body></html>';
   print $html;
 
